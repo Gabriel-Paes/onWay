@@ -1,0 +1,25 @@
+{
+  "name": "onway",
+  "version": "1.0.0",
+  "description": "project from university",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node back/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-Paes/onWay.git"
+  },
+  "keywords": [
+    "Project",
+    "Map",
+    "QrCode"
+  ],
+  "author": "Gabriel-Paes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gabriel-Paes/onWay/blob/main/LICENSE"
+  },
+  "homepage": "https://github.com/Gabriel-Paes/onWay#readme"
+}
